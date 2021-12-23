@@ -1,0 +1,8 @@
+<h1 class="contract">close</h1>
+
+---
+spec_version: "0.0.1"
+title: Initial struct
+summary: 'first empty commit'
+icon: @ICON_BASE_URL@/@TOKEN_ICON_URI@
+---
